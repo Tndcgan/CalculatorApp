@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/thanadetdaunyai/DX212app/CalculatorApp/CalculatorApp/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/thanadetdaunyai/DX212app/CalculatorApp/CalculatorApp/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/CalculatorApp.app
